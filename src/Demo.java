@@ -6,6 +6,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		
 		String albi = "Albinah";
+		String hl = "Hlongo";
 
 	}
 
